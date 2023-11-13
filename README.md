@@ -1,2 +1,2 @@
 ### Hi Evgeniy 👋
-The first homework is posted in this repository
+My homework may someday appear in this repository.
