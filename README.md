@@ -5,5 +5,5 @@
 
 
 <h3 align="left">The following emoji's will give you some more info on me:</h3>
-☕️ 🐶 🏡 👨🏼‍💻 ⛳️ 🏎 🍔 🍕 🏕 🌊 📸
+☕️ 🐶 🏡 👨🏼‍💻  🏎 🍔 🍕 🏕 🌊
 
