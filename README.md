@@ -2,6 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">AI developer, Python developer from Russia 🇷🇺</h3>
 
-<h3 The following emoji's will give you some more info on me:</h3>
+<h3 align="left">The following emoji's will give you some more info on me:</h3>
 ☕️ 🐶 🏡 👨🏼‍💻 ⛳️ 🏎 🍔 🍕 🏕 🌊 📸
 
