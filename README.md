@@ -4,8 +4,8 @@
 
 ### 📫 How To Reach Me:
 
-- Email: [alexeyvyzhlov@yandex.ru](mailto:alexeyvyzhlov@yandex.ru)
-- Telegram: [@tiltolo](https://t.me/tiltolo)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : [alexlex21998@gmail.com](mailto:alexlex21998@gmail.com)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) : [@tiltolo](https://t.me/tiltolo)
 
 ### 💼 Stack I'm Working With
 <a href="https://github.com/Ileriayo/markdown-badges">
