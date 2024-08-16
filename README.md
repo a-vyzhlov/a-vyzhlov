@@ -30,7 +30,7 @@
 
 - [a-vyzhlov/Compiler_of_questions](https://github.com/a-vyzhlov/Compiler_of_questions) - A well-thought-out system RAG system based on NeMo-Guardrails
 - [a-vyzhlov/TG_Bot_useful_RAG_assistant](https://github.com/a-vyzhlov/TG_Bot_useful_RAG_assistant) - A convenient assistant for parsing text documents using open sourse LLM in a telegram bot
-- [a-vyzhlov/TG_Bot_shopping_basket](https://github.com/a-vyzhlov/TG_Bot_shopping_basket) - Web application for creating shortened links and collecting click-through statistics
+- [a-vyzhlov/TG_Bot_shopping_basket](https://github.com/a-vyzhlov/TG_Bot_shopping_basket) - A proposal to develop a variant of the store basket for further correction for the store in the telegram bot
 
 You can also look at my educational projects while studying Data Science Professional Training Course at practicum by Yandex - [a-vyzhlov/Yandex_practicum](https://github.com/a-vyzhlov/Yandex_practicum)
 
