@@ -34,6 +34,3 @@
 
 You can also look at my educational projects while studying Data Science Professional Training Course at practicum by Yandex - [a-vyzhlov/Yandex_practicum](https://github.com/a-vyzhlov/Yandex_practicum)
 
-<h3 align="left">The following emoji's will give you some more info on me:</h3>
-☕️ 🐶 🏡 👨🏼‍💻  🏎 🍔 🍕 🏕 🌊
-
